@@ -1,3 +1,4 @@
+""
 import math
 
 def rectangle_method(f, a, b, n):
